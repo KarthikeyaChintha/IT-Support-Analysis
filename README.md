@@ -32,11 +32,11 @@ Key preparation and analysis activities included:
 | Area                  | Analysis Performed                                                   |
 | --------------------- | -------------------------------------------------------------------- |
 | Ticket Categories     | Classified tickets into Login Access, System, Software, and Hardware |
-| Ticket Type           | Analyzed IT Errors and IT Requests                                   |
+| Issue Type            | Analyzed IT Requests and IT Errors                                   |
 | Resolution Time       | Calculated and compared resolution time across categories            |
 | Satisfaction          | Analyzed customer satisfaction scores                                |
 | SLA Performance       | Measured the percentage of tickets resolved within SLA               |
-| Dashboard Preparation | Organized data using Pivot Tables and supporting Excel features      |
+| Dashboard Preparation | Organized data using Pivot Tables, Pivot Charts, and slicers         |
 
 ---
 
@@ -44,7 +44,7 @@ Key preparation and analysis activities included:
 
 * **Ticket Volume Analysis:** Analyzed the distribution of 97,498 tickets across different support categories
 * **Category Analysis:** Compared ticket volumes and resolution times for Login Access, System, Software, and Hardware
-* **Ticket Type Analysis:** Compared IT Requests and IT Errors
+* **Issue Type Analysis:** Compared IT Requests and IT Errors
 * **Resolution Performance:** Evaluated average resolution time across categories
 * **Satisfaction Analysis:** Examined customer satisfaction and its relationship with resolution performance
 * **SLA Analysis:** Measured the percentage of tickets resolved within the defined SLA
@@ -76,12 +76,12 @@ Key preparation and analysis activities included:
 
 ---
 
-## 📝 Ticket Type Distribution
+## 📝 Issue Type Distribution
 
-| Ticket Type | Tickets | Percentage |
-| ----------- | ------: | ---------: |
-| IT Request  |  73,220 |     75.10% |
-| IT Error    |  24,278 |     24.90% |
+| Issue Type | Tickets | Percentage |
+| ---------- | ------: | ---------: |
+| IT Request |  73,220 |     75.10% |
+| IT Error   |  24,278 |     24.90% |
 
 **IT Requests account for the majority of support tickets, representing approximately 75% of the total workload.**
 
@@ -122,13 +122,12 @@ The Excel file includes an interactive dashboard with:
 * Average Satisfaction Rate
 * SLA Resolution Percentage
 * Ticket distribution by category
-* Ticket type distribution
+* **Ticket distribution by Issue Type**
 * Category-wise resolution time
 * Satisfaction and resolution analysis
 * Interactive Pivot Tables and slicers
 
-<img width="1792" height="556" alt="image" src="https://github.com/user-attachments/assets/701c8fd0-b26c-4855-b730-78071bef743e" />
-
+![IT Support Dashboard](dashboard_preview.png)
 
 ---
 
@@ -160,10 +159,10 @@ Based on the analysis, support teams should focus on:
 
 ## 📁 Project Dataset
 
-The project uses an IT support ticket dataset containing **97,498 records** with information related to ticket categories, ticket types, resolution time, satisfaction, and SLA performance.
+The project uses an IT support ticket dataset containing **97,498 records** with information related to ticket categories, issue types, resolution time, satisfaction, and SLA performance.
 
 ---
 
 ## 👨‍💻 Project Overview
 
-This project demonstrates practical skills in **Excel-based data analysis, Pivot Tables, dashboard development, KPI tracking, and business insight generation** using a real-world IT support scenario.
+This project demonstrates practical skills in **Excel-based data analysis, Pivot Tables, Pivot Charts, dashboard development, KPI tracking, and business insight generation** using a real-world IT support scenario.
