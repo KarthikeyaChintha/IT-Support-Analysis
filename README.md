@@ -127,7 +127,8 @@ The Excel file includes an interactive dashboard with:
 * Satisfaction and resolution analysis
 * Interactive Pivot Tables and slicers
 
-![IT Support Dashboard](dashboard_preview.png)
+<img width="1792" height="556" alt="image" src="https://github.com/user-attachments/assets/701c8fd0-b26c-4855-b730-78071bef743e" />
+
 
 ---
 
