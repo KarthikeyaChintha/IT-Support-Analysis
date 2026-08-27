@@ -1,11 +1,11 @@
-# 🖥️ IT Support Analysis Dashboard
+# IT Support Analysis Dashboard
 
 **Tools Used:** Advanced Excel · Pivot Tables · Pivot Charts · XLOOKUP · Conditional Formatting · Interactive Slicers · Dashboards
 **Domain:** IT Support · Business Intelligence · Data Analytics
 
 ---
 
-## 📌 Project Objective
+## Project Objective
 
 IT support teams handle a large number of tickets related to system issues, software, hardware, and user access. Without proper analysis, it can be difficult to identify workload patterns, SLA performance, resolution bottlenecks, and factors affecting customer satisfaction.
 
@@ -13,7 +13,7 @@ This project analyzes **97,498 IT support tickets** to evaluate ticket distribut
 
 ---
 
-## 📂 Files in this Repository
+## Files in this Repository
 
 | File                                     | Description                                                                                   |
 | ---------------------------------------- | --------------------------------------------------------------------------------------------- |
@@ -23,7 +23,7 @@ This project analyzes **97,498 IT support tickets** to evaluate ticket distribut
 
 ---
 
-## 🧹 Data Analysis & Preparation
+## Data Analysis & Preparation
 
 The IT support dataset was prepared and analyzed in Excel before creating the final dashboard.
 
@@ -40,7 +40,7 @@ Key preparation and analysis activities included:
 
 ---
 
-## 🔍 Key Analysis Performed
+## Key Analysis Performed
 
 * **Ticket Volume Analysis:** Analyzed the distribution of 97,498 tickets across different support categories
 * **Category Analysis:** Compared ticket volumes and resolution times for Login Access, System, Software, and Hardware
@@ -52,7 +52,7 @@ Key preparation and analysis activities included:
 
 ---
 
-## 📊 Key Performance Indicators
+## Key Performance Indicators
 
 | KPI                         | Result        |
 | --------------------------- | ------------- |
@@ -63,7 +63,7 @@ Key preparation and analysis activities included:
 
 ---
 
-## 📈 Ticket Distribution by Category
+## Ticket Distribution by Category
 
 | Category     | Tickets | Percentage |
 | ------------ | ------: | ---------: |
@@ -76,7 +76,7 @@ Key preparation and analysis activities included:
 
 ---
 
-## 📝 Issue Type Distribution
+## Issue Type Distribution
 
 | Issue Type | Tickets | Percentage |
 | ---------- | ------: | ---------: |
@@ -87,7 +87,7 @@ Key preparation and analysis activities included:
 
 ---
 
-## ⏱️ Resolution Time by Category
+## Resolution Time by Category
 
 | Category     | Average Resolution Time |
 | ------------ | ----------------------: |
@@ -100,7 +100,7 @@ Hardware and System tickets have significantly higher resolution times compared 
 
 ---
 
-## 💡 Key Findings
+## Key Findings
 
 * **System tickets are the largest workload:** They account for approximately **40%** of all support tickets.
 * **IT Requests dominate:** Around **75%** of tickets are IT Requests, compared with approximately 25% IT Errors.
@@ -113,7 +113,7 @@ Hardware and System tickets have significantly higher resolution times compared 
 
 ---
 
-## 📊 Dashboard
+## Dashboard
 
 The Excel file includes an interactive dashboard with:
 
@@ -132,7 +132,7 @@ The Excel file includes an interactive dashboard with:
 
 ---
 
-## 🛠️ Excel Features Used
+## Excel Features Used
 
 * `XLOOKUP` for data lookup and mapping
 * `COUNTIF` / `COUNTIFS` for ticket analysis
@@ -146,7 +146,7 @@ The Excel file includes an interactive dashboard with:
 
 ---
 
-## 🎯 Business Recommendations
+## Business Recommendations
 
 Based on the analysis, support teams should focus on:
 
@@ -158,7 +158,7 @@ Based on the analysis, support teams should focus on:
 
 ---
 
-## 📁 Project Dataset
+## Project Dataset
 
 The project uses an IT support ticket dataset containing **97,498 records** with information related to ticket categories, issue types, resolution time, satisfaction, and SLA performance.
 
